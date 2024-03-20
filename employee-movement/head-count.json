@@ -1,1 +1,43 @@
-
+{
+  "employeeInfo" : {
+    "grandTotal" : 1499,
+    "headCount" : [
+      {
+        "title": "Digital Transformation Division",
+        "count" : 46
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 174
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 118
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 23
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 20
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 921
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 5
+      },
+      {
+        "title": "Digital Transformation Division",
+        "count" : 192
+      }
+ 
+    ]
+  },
+  "toSendEmails" : [
+    // currently, it may be emppty.
+  ]
+}
