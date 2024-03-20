@@ -37,7 +37,5 @@
  
     ]
   },
-  "toSendEmails" : [
-    // currently, it may be emppty.
-  ]
+  "toSendEmails" : []
 }
